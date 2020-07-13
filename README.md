@@ -1,5 +1,5 @@
 ## VideoStack
-Demo app: https://videostackapp.herokuapp.com/
+Demo app: https://videostackapp.herokuapp.com/.
 
   
 Video call to your friend without registering. 
